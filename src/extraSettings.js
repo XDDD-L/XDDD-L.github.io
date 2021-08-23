@@ -1,12 +1,9 @@
-/**
- * 声明，本项目仅帮助大家学习技术及娱乐，切勿将修改后的网站大规模传播及商用，以避免侵权！
- */
 
 // 额外分数：修改数字
 let extraScore = 1;
 
 // 无敌模式：true 改为 false
-let wuDi = false;
+let wuDi = true;
 
 // 第一个水果：修改数字为 0-10
 let firstFruit = 0;
